@@ -4,9 +4,9 @@
 
 About This Project:
 
--   🔧 Backend Seperated
--   🗄️ Database Seperated
--   🔐 Signup Endpoint
+-   🔧 Backend Seperated-(express, dotenv, crypto, cors, cookie-parser, bcryptjs)
+-   🗄️ Database Seperated-(mongoose, mongoDB)
+-   🔐 Signup Endpoint-(mailtrap)
 -   📧 Sending Verify Account Email (only work for mine)
 -   🔍 Verify Email Endpoint
 -   📄 Build a Welcome Email Template
@@ -14,9 +14,9 @@ About This Project:
 -   🔑 Login Endpoint
 -   🔄 Forgot Password Endpoint
 -   🔁 Reset Password Endpoint
--   ✔️ Check Auth Endpoint
--   🌐 Frontend Setup
--   📋 Signup Page UI
+-   ✔️ Check Auth Endpoint-(jsonwebtoken)
+-   🌐 Frontend Setup-(react-dom, react-hot-toast, axios, zustand, react-router-dom)
+-   📋 Signup Page UI-(framer-motion, lucide-react)
 -   🔓 Login Page UI
 -   ✅ Email Verification Page UI
 -   📤 Implement Signup
